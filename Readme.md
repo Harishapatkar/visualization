@@ -1,4 +1,4 @@
-# Associates Performance Dashboard
+# Associates Performance 
 
 ## Overview
 This interactive Streamlit dashboard provides a comprehensive analysis of associates' performance based on lead generation data. The application visualizes key performance metrics through six distinct visual components that help managers and team leaders identify trends, efficiency patterns, and areas for improvement.
@@ -39,6 +39,6 @@ pip install -r requirements.txt
 ```
 ### Step 3: Run the code
 ```bash
-streamlit run test5.py
+streamlit run test7.py
 ```
 
